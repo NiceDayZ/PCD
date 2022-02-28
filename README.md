@@ -1,1 +1,1 @@
-# [T1](https://github.com/NiceDayZ/PCD/T1)
+# [Homework 1](https://github.com/NiceDayZ/PCD/tree/main/T1)
